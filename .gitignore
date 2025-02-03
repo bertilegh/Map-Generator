@@ -1,0 +1,15 @@
+player.db
+__pycache__/
+*.pyc
+*.pyo
+
+venv/
+.venv/
+env/
+.env/
+myenv/
+.myenv/
+
+*.db
+*.sqlite3
+
